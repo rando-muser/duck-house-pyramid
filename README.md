@@ -1,14 +1,17 @@
 
 > Open this page at [https://rando-muser.github.io/duck-house-pyramid/](https://rando-muser.github.io/duck-house-pyramid/)
+>
+> 
 
-## Use as Extension
+Hello!
 
-This repository can be added as an **extension** in MakeCode.
+This is a MakeCode game that starts with the collapse of the Bass Pro Shops Pyramid (Also called the Memphis Pyramid, its the 10th largest pyramid in the world!). The player then has to dive into piles of sports/water recreation equipment to find items and save people, inclding 4 key NPCs, to win the game. 
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/rando-muser/duck-house-pyramid** and import
+The controls are stated in the in-game tutorial: the player uses WASD/arrows to move and use items.
+
+This is a very silly game and I absolutely do not want the real Bass Pro Shops Pyramid to collapse!
+
+- Randomuser
 
 ## Edit this project
 
